@@ -1,0 +1,30 @@
+body {
+  background-color:#B4ECE3;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color:#B20600;
+  border-width:10px;
+  width: 5%;
+}
+h1 {
+  color: blue;
+}
+h3 {
+  color:#B20600;
+}
+a {
+  color: green;
+}
+img {
+  border-radius: 50%;
+                      /*****CLASS SELECTORS*****/
+}
+.monke:hover {
+  background-color:gold;
+                      /*****ID SELECTORS*****/
+}
+#heading {
+  color:blue;
+}
